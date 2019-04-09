@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "382b2764acb48ddf8fac9cff0f588e7426e6510b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "kikichain/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2-beta1",
+          "WebSocketSharp": "1.0.3-rc11"
+        },
+        "runtime": {
+          "kikichain.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2-beta1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23131"
+          }
+        }
+      },
+      "WebSocketSharp/1.0.3-rc11": {
+        "runtime": {
+          "lib/websocket-sharp.dll": {
+            "assemblyVersion": "1.0.2.59611",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kikichain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HRdPuw8qsV49lIqVHJZqriraVTYYYKTM+E+bOoPAr7J49wctTRoiF/jRnjYi3jIxudLTLpUTQY7v/7X/so61KQ==",
+      "path": "newtonsoft.json/12.0.2-beta1",
+      "hashPath": "newtonsoft.json.12.0.2-beta1.nupkg.sha512"
+    },
+    "WebSocketSharp/1.0.3-rc11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sg7Q90tCWqtzDT9iPkgsJwygE8aaXvKkhzv+V1/N4+pyEJRt6AAGEq3LfldLLiMgfkA8vbz0AWjo9++3X8ZSRA==",
+      "path": "websocketsharp/1.0.3-rc11",
+      "hashPath": "websocketsharp.1.0.3-rc11.nupkg.sha512"
+    }
+  }
+}

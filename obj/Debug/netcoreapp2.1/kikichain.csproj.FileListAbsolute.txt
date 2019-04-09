@@ -1,0 +1,11 @@
+/Users/edgarherrador/Documents/kikichain/bin/Debug/netcoreapp2.1/kikichain.deps.json
+/Users/edgarherrador/Documents/kikichain/bin/Debug/netcoreapp2.1/kikichain.runtimeconfig.json
+/Users/edgarherrador/Documents/kikichain/bin/Debug/netcoreapp2.1/kikichain.runtimeconfig.dev.json
+/Users/edgarherrador/Documents/kikichain/bin/Debug/netcoreapp2.1/kikichain.dll
+/Users/edgarherrador/Documents/kikichain/bin/Debug/netcoreapp2.1/kikichain.pdb
+/Users/edgarherrador/Documents/kikichain/obj/Debug/netcoreapp2.1/kikichain.csprojAssemblyReference.cache
+/Users/edgarherrador/Documents/kikichain/obj/Debug/netcoreapp2.1/kikichain.csproj.CoreCompileInputs.cache
+/Users/edgarherrador/Documents/kikichain/obj/Debug/netcoreapp2.1/kikichain.AssemblyInfoInputs.cache
+/Users/edgarherrador/Documents/kikichain/obj/Debug/netcoreapp2.1/kikichain.AssemblyInfo.cs
+/Users/edgarherrador/Documents/kikichain/obj/Debug/netcoreapp2.1/kikichain.dll
+/Users/edgarherrador/Documents/kikichain/obj/Debug/netcoreapp2.1/kikichain.pdb
