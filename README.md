@@ -1,10 +1,10 @@
 # kikichain
 
 ## Steps
-* Open a shell window and run the following command to start the first “node”
+* Open a shell window and run the following command to start the first “node”:
 dotnet ./bin/Debug/netcoreapp3.1/kikichain.dll 6001 Edgar
 
-* Open anther shell window and run the following command to start the second “node”
+* Open anther shell window and run the following command to start the second “node”:
 dotnet ./bin/Debug/netcoreapp3.1/kikichain.dll 6002 Alberto
 
 * Switch back to the first “node”, display Blockchain on-screen by select #3 first
