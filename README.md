@@ -2,10 +2,10 @@
 
 ## Steps
 * Open a shell window and run the following command to start the first “node”
-dotnet BlockchainDemo.dll 6001 Edgar
+dotnet ./bin/Debug/netcoreapp3.1/kikichain.dll 6001 Edgar
 
 * Open anther shell window and run the following command to start the second “node”
-dotnet BlockchainDemo.dll 6001 Alberto
+dotnet ./bin/Debug/netcoreapp3.1/kikichain.dll 6002 Alberto
 
 * Switch back to the first “node”, display Blockchain on-screen by select #3 first
 The display shows there is only one block in the Blockchain, Genesis block.
